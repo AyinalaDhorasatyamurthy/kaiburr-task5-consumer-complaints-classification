@@ -137,6 +137,8 @@ Open `consumer_complaints.ipynb` in Jupyter and execute all cells.
 ---
 
 ## 👨‍💻 Author
-**Kaiburr AI - Data Science Assessment**  
+**Kaiburr - Data Science Assessment** 
+Developer: Ayinala Dhorasatyamurthy
+Date: October 20, 2025
 Developed as part of **Kaiburr Recruitment Data Science Task**  
 © 2025 Kaiburr LLC. All Rights Reserved.

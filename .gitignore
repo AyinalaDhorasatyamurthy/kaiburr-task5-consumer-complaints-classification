@@ -1,0 +1,10 @@
+data/ 
+models/ 
+.ipynb_checkpoints/ 
+__pycache__/ 
+*.log 
+*.tmp 
+*.csv 
+*.pkl 
+.DS_Store 
+Thumbs.db 

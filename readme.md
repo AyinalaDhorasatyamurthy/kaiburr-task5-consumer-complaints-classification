@@ -103,13 +103,13 @@ model = joblib.load('models/logistic_model.pkl')
 ## 📈 Visualizations
 All confusion matrices are automatically saved to `/reports/`:
 - `confusion_matrix_logistic.png`
-  <img width="732" height="608" alt="image" src="https://github.com/user-attachments/assets/2e6f5137-5291-4cde-81f0-29a689c69cfa" />
+     <img width="732" height="608" alt="image" src="https://github.com/user-attachments/assets/2e6f5137-5291-4cde-81f0-29a689c69cfa" />
 
 - `confusion_matrix_nb.png`
-   <img width="732" height="608" alt="image" src="https://github.com/user-attachments/assets/03ec55b5-8418-4851-89fb-b761b4738748" />
+      <img width="732" height="608" alt="image" src="https://github.com/user-attachments/assets/03ec55b5-8418-4851-89fb-b761b4738748" />
 
 - `confusion_matrix_svm.png`
-   <img width="732" height="608" alt="image" src="https://github.com/user-attachments/assets/99c4d10a-42d9-413a-bb93-997f7ce0074b" />
+      <img width="732" height="608" alt="image" src="https://github.com/user-attachments/assets/99c4d10a-42d9-413a-bb93-997f7ce0074b" />
 
 
 ---

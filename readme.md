@@ -10,6 +10,7 @@ Perform text classification on the [Consumer Complaint Database](https://catalog
 | 1 | Debt collection |
 | 2 | Consumer loan |
 | 3 | Mortgage |
+<img width="916" height="471" alt="image" src="https://github.com/user-attachments/assets/c8b25de0-2abe-4958-8747-27362dfa294b" />
 
 ---
 
@@ -102,8 +103,14 @@ model = joblib.load('models/logistic_model.pkl')
 ## 📈 Visualizations
 All confusion matrices are automatically saved to `/reports/`:
 - `confusion_matrix_logistic.png`
+  <img width="732" height="608" alt="image" src="https://github.com/user-attachments/assets/2e6f5137-5291-4cde-81f0-29a689c69cfa" />
+
 - `confusion_matrix_nb.png`
+   <img width="732" height="608" alt="image" src="https://github.com/user-attachments/assets/03ec55b5-8418-4851-89fb-b761b4738748" />
+
 - `confusion_matrix_svm.png`
+   <img width="732" height="608" alt="image" src="https://github.com/user-attachments/assets/99c4d10a-42d9-413a-bb93-997f7ce0074b" />
+
 
 ---
 
@@ -130,7 +137,11 @@ Open `consumer_complaints.ipynb` in Jupyter and execute all cells.
 ---
 
 ## 🏁 Final Output
-- Trained models: Logistic Regression, Naive Bayes, SVM  
+- Trained models: Logistic Regression, Naive Bayes, SVM
+  <img width="772" height="551" alt="image" src="https://github.com/user-attachments/assets/bb58cd14-ea89-46ab-b29a-c4669f385ab2" />
+  <img width="525" height="742" alt="image" src="https://github.com/user-attachments/assets/c2e77177-889c-4b6f-90aa-bfb561b83841" />
+
+ 
 - Evaluation reports and plots saved under `/reports/`  
 - Ready-to-deploy `.pkl` models under `/models/`
 
